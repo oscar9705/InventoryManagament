@@ -1,2 +1,2 @@
 # InventoryManagament
-Crud ASP. NET core
+Crud ASP. NET core  MVC EntityFramework
